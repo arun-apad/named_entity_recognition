@@ -1,0 +1,34 @@
+
+-----------------------------------------------------------------------------------------------
+My name is Arun Padmanabhan and I am a Senior Data Scientist, currently leading the Data Science team at Tabsquare, a Singapore based startup. My expertise is in Machine Learning, Deep Learming, Deep Architectures and AI. I have over 6 years of experience in working with data, building data products and solving problems with data driven solutions. I am also a complete hands-on programmer and data geek proficient in languages like R, python and java. I am also very familiar with both SQL and NoSql databases. 
+ 
+I am very keen on exploring this opportunity and have uploaded my CV for you reference. Looking forward to hearing from you.
+
+Cheers and Regards,
+Arun Padmanabhan. 
+
+-----------------------------------------
+
+Greetings,
+
+After going through the Bakken&Baeck website I got a feeling that the company is open to working with a lot of diverse projects.  I am purely a technical person driven by the possibilities of real world Deep Learning and Machine Learning applications. I would love to build data solutions across projects and not get tied down to a single industry.  Bakken&Baeck comes across like a company where I would get the opportunity to identify ML and DL use cases without being tied down to a single industry. 
+
+Cheers and Regards,
+Arun Padmanabhan
+
+
+
+EMC Certified Data Scientist
+https://www.certmetrics.com/emc/public/transcript.aspx?transcript=58MCV61C1NBEQ8
+7N
+? Technical
+
+---------------------------------------------------
+curl --data "{\"restid\":479, \"items\":\"54455,54482,54550\"}" http://ec2-52-74-9-16.ap-southeast-1.compute.amazonaws.com:8027/topsix
+
+In Seol currently we have 4 generic categories, while testing can you check a few orders for each scenario:
+1) Dishes with only 1 out of 4 generic categories in ordercart
+2) Dishes with only 2 out of 4 generic categories in ordercart 
+3) Dishes with only 3 out of 4 generic categories in ordercart
+4) Dishes with all 4 out of 4 generic categories in ordercart
+
